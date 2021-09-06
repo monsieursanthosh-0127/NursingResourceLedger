@@ -1,0 +1,14 @@
+INSERT INTO Employee (
+                         id,
+                         name,
+                         email,
+                         phone,
+                         inactive
+                     )
+                     VALUES (
+                         304,
+                         'Donna Dumbeldore',
+                         'donna@nrl.com',
+                         '409656817',
+                         true
+                     );
